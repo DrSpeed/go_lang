@@ -27,7 +27,7 @@ Should find it on your path
 ### To cross compile and write to device:
 
 * Connect the Feather board to the computer and touble-click the reset button to put it in bootloader mode. You will need to do this **EVERY** time you want to flash it
-* Check the path for the new USB drive `/Volumes/FEATHERBOOT`
+* Check the path for the new USB drive under OSX is: `/Volumes/FEATHERBOOT`
 
 The command to cross compile and push to (flash) device:
 
